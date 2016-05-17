@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+I'm Jinil. I've tested GitHub with hello-world repository.
+
